@@ -1,0 +1,2 @@
+# token
+FJC Token contract
